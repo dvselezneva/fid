@@ -1,83 +1,125 @@
 <yml_catalog date="2024-03-20 11:15">
 <shop>
-<name>StrategShop</name>
-<company>ИП Щербак Александр Викторович</company>
-<url>https://www.strategshop.ru</url>
-<phone>8 499 110-42-48</phone>
-<currencies>
-<currency id="RUB" rate="1"/>
-</currencies>
 <offers>
-<offer id="351" available="true">
-<url>https://www.strategshop.ru/catalog/konfety-rafaello-150-g/p351/?utm_source=market.yandex.ru&utm_campaign=351</url>
-<price>355</price>
-<currencyId>RUB</currencyId>
-<categoryId>10990</categoryId>
-<picture>https://www.strategshop.ru/media/284/28474.jpg</picture>
-<picture>https://www.strategshop.ru/media/008/932/8932703.jpg</picture>
-<pickup>false</pickup>
-<name>Ferrero Конфеты Рафаэлло (Raffaello) 150 г</name>
-<vendor>Ferrero</vendor>
-<sales_notes>возможна оплата наличными</sales_notes>
-<barcode>8000500023976</barcode>
-<weight>0.19</weight>
+<offer id="k0002" group_id="стив">
 <outlets>
-<outlet id="1" instock="6"/>
+<outlet id="Первый" instock="12"/>
+<outlet id="Второй" instock="16"/>
 </outlets>
+<priceZones>
+<priceZone id="ЦЗ1" price= "3001"/>
+<priceZone id="ЦЗ2" price= "5001"/>
+</priceZones>
 </offer>
-<offer id="400" available="true">
-<url>https://www.strategshop.ru/catalog/kofe-neskafe-gold-s-dobavleniem-molotogo-95-g-steklo/p400/?utm_source=market.yandex.ru&utm_campaign=400</url>
-<price>370</price>
-<currencyId>RUB</currencyId>
-<categoryId>11007</categoryId>
-<picture>https://www.strategshop.ru/media/511/51139.jpg</picture>
-<picture>https://www.strategshop.ru/media/511/51140.jpg</picture>
-<pickup>false</pickup>
-<name>Nescafe Кофе Нескафе Голд (Nescafe Gold) растворимый с добавлением молотого 95 г</name>
-<vendor>Nescafe</vendor>
-<description>NESCAF&Eacute; GOLD создан кофейными экспертами. Откройте для себя новый кофе NESCAF&Eacute; GOLD! Секрет его богатого аромата и насыщенного вкуса - в зёрнах арабики, помолотых в 10 раз тоньше. Насладитесь по-настоящему идеальной чашкой кофе NESCAF&Eacute; GOLD с ещё большим вкусом и ароматом из самой глубины кофейного зерна. Состав: Натуральный растворимый сублимированный кофе, натуральный жареный молотый кофе. NESCAF&Eacute; Gold. 100% натуральный кофе. Бленд кофе содержит зёрна арабики, перемолотые в 10 раз тоньше, чем обычно перемалываются зерна для приготовления растворимого кофе. Крепость: 3 из 5</description>
-<sales_notes>возможна оплата наличными</sales_notes>
-<barcode>46204813</barcode>
-<weight>0.355</weight>
+<offer id="k0003" group_id="стив">
 <outlets>
-<outlet id="1" instock="5"/>
+<outlet id="Первый" instock="12"/>
+<outlet id="Второй" instock="16"/>
 </outlets>
+<priceZones>
+<priceZone id="ЦЗ1" price= "3002"/>
+<priceZone id="ЦЗ2" price= "5002"/>
+</priceZones>
 </offer>
-<offer id="578" available="true">
-<url>https://www.strategshop.ru/catalog/kofe-neskafe-gold-190-g-steklo/p578/?utm_source=market.yandex.ru&utm_campaign=578</url>
-<price>569</price>
-<currencyId>RUB</currencyId>
-<categoryId>11007</categoryId>
-<picture>https://www.strategshop.ru/media/511/51137.jpg</picture>
-<picture>https://www.strategshop.ru/media/511/51138.jpg</picture>
-<pickup>false</pickup>
-<name>Nescafe Кофе Нескафе Голд (Nescafe Gold) растворимый с добавлением молотого 190 г</name>
-<vendor>Nescafe</vendor>
-<description>NESCAF&Eacute; GOLD создан кофейными экспертами. Откройте для себя новый кофе NESCAF&Eacute; GOLD! Секрет его богатого аромата и насыщенного вкуса - в зёрнах арабики, помолотых в 10 раз тоньше. Насладитесь по-настоящему идеальной чашкой кофе NESCAF&Eacute; GOLD с ещё большим вкусом и ароматом из самой глубины кофейного зерна. Состав: Натуральный растворимый сублимированный кофе, натуральный жареный молотый кофе. NESCAF&Eacute; Gold. 100% натуральный кофе. Бленд кофе содержит зёрна арабики, перемолотые в 10 раз тоньше, чем обычно перемалываются зерна для приготовления растворимого кофе. Крепость: 3 из 5</description>
-<sales_notes>возможна оплата наличными</sales_notes>
-<barcode>4600680000640</barcode>
-<weight>0.001</weight>
+<offer id="k0007" group_id="стив">
 <outlets>
-<outlet id="1" instock="19"/>
+<outlet id="Первый" instock="12"/>
+<outlet id="Второй" instock="16"/>
 </outlets>
+<priceZones>
+<priceZone id="ЦЗ1" price= "3003"/>
+<priceZone id="ЦЗ2" price= "5003"/>
+</priceZones>
 </offer>
-<offer id="619" available="true">
-<url>https://www.strategshop.ru/catalog/kofe-nescafe-gold-47-5-g/p619/?utm_source=market.yandex.ru&utm_campaign=619</url>
-<price>179</price>
-<currencyId>RUB</currencyId>
-<categoryId>11007</categoryId>
-<picture>https://www.strategshop.ru/media/579/57931.jpg</picture>
-<picture>https://www.strategshop.ru/media/579/57932.jpg</picture>
-<pickup>false</pickup>
-<name>Nescafe Кофе Нескафе Голд (Nescafe Gold) растворимый с добавлением молотого 47 г</name>
-<vendor>Nescafe</vendor>
-<description>NESCAF&Eacute; GOLD создан кофейными экспертами. Откройте для себя новый кофе NESCAF&Eacute; GOLD! Секрет его богатого аромата и насыщенного вкуса - в зёрнах арабики, помолотых в 10 раз тоньше. Насладитесь по-настоящему идеальной чашкой кофе NESCAF&Eacute; GOLD с ещё большим вкусом и ароматом из самой глубины кофейного зерна. Состав: Натуральный растворимый сублимированный кофе, натуральный жареный молотый кофе. NESCAF&Eacute; Gold. 100% натуральный кофе. Бленд кофе содержит зёрна арабики, перемолотые в 10 раз тоньше, чем обычно перемалываются зерна для приготовления растворимого кофе. Крепость: 3 из 5</description>
-<sales_notes>возможна оплата наличными</sales_notes>
-<barcode>46204837</barcode>
-<weight>0.21</weight>
+<offer id="k0005" group_id="стив">
 <outlets>
-<outlet id="1" instock="3"/>
+<outlet id="Первый" instock="12"/>
+<outlet id="Второй" instock="16"/>
 </outlets>
+<priceZones>
+<priceZone id="ЦЗ1" price= "3004"/>
+<priceZone id="ЦЗ2" price= "5004"/>
+</priceZones>
+</offer>
+<offer id="k0008" group_id="стив">
+<outlets>
+<outlet id="Первый" instock="12"/>
+<outlet id="Второй" instock="16"/>
+</outlets>
+<priceZones>
+<priceZone id="ЦЗ1" price= "3005"/>
+<priceZone id="ЦЗ2" price= "5005"/>
+</priceZones>
+</offer>
+<offer id="k0001" group_id="стив">
+<outlets>
+<outlet id="Первый" instock="12"/>
+<outlet id="Второй" instock="16"/>
+</outlets>
+<priceZones>
+<priceZone id="ЦЗ1" price= "3006"/>
+<priceZone id="ЦЗ2" price= "5006"/>
+</priceZones>
+</offer>
+<offer id="k0006" group_id="стив">
+<outlets>
+<outlet id="Первый" instock="12"/>
+<outlet id="Второй" instock="16"/>
+</outlets>
+<priceZones>
+<priceZone id="ЦЗ1" price= "3007"/>
+<priceZone id="ЦЗ2" price= "5007"/>
+</priceZones>
+</offer>
+<offer id="k0004" group_id="стив">
+<outlets>
+<outlet id="Первый" instock="12"/>
+<outlet id="Второй" instock="16"/>
+</outlets>
+<priceZones>
+<priceZone id="ЦЗ1" price= "3008"/>
+<priceZone id="ЦЗ2" price= "5008"/>
+</priceZones>
+</offer>
+<offer id="k0010" group_id="2">
+<outlets>
+<outlet id="Первый" instock="12"/>
+<outlet id="Второй" instock="16"/>
+</outlets>
+<priceZones>
+<priceZone id="ЦЗ1" price= "3009"/>
+<priceZone id="ЦЗ2" price= "5009"/>
+</priceZones>
+</offer>
+<offer id="k0011" group_id="2">
+<outlets>
+<outlet id="Первый" instock="12"/>
+<outlet id="Второй" instock="16"/>
+</outlets>
+<priceZones>
+<priceZone id="ЦЗ1" price= "3010"/>
+<priceZone id="ЦЗ2" price= "5010"/>
+</priceZones>
+</offer>
+<offer id="k0009" group_id="2">
+<outlets>
+<outlet id="Первый" instock="12"/>
+<outlet id="Второй" instock="16"/>
+</outlets>
+<priceZones>
+<priceZone id="ЦЗ1" price= "3011"/>
+<priceZone id="ЦЗ2" price= "5011"/>
+</priceZones>
+</offer>
+<offer id="k0012" group_id="2">
+<outlets>
+<outlet id="Первый" instock="12"/>
+<outlet id="Второй" instock="16"/>
+</outlets>
+<priceZones>
+<priceZone id="ЦЗ1" price= "3012"/>
+<priceZone id="ЦЗ2" price= "5012"/>
+</priceZones>
 </offer>
 </offers>
 </shop>
